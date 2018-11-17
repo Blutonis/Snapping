@@ -1,4 +1,4 @@
 Pivot point version:
 Key 1 & 2= Baumodus aktivieren ist einer der Baumodis aktiv, kann mit der rechten Pfeiltaste zwischen Bauelementen gewechselt werden.
 Linke Maustaste = bauen
-
+R-key um zu rotieren
